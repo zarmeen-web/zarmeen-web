@@ -2,7 +2,7 @@
 
 ## 🚀 Aspiring AI/ML Engineer
 
-passionate about artificial intelligence 
+Passionate about Artificial Intelligence, Machine Learning, and Data Science.
 
 💻 Learning Python, AI & Machine Learning
 
