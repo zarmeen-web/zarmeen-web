@@ -43,5 +43,8 @@ Passionate about Artificial Intelligence, Machine Learning, and Data Science.
 - Become an AI Engineer
 
 ---
+# 🌐 Connect With Me
+
+LinkedIn link:https://www.linkedin.com/in/zarmeen-gul-912821407?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ⭐ Thanks for visiting my GitHub profile!
