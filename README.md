@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Zarmeen Gul
 
-<!--
-**zarmeen-web/zarmeen-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+passionate about artificial intelligence 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Python, AI & Machine Learning
+
+🌱 Currently learning Data Science
+
+📍 Pakistan
+
+---
+
+## 🛠 Tech Stack
+
+- 🐍 Python
+- 📊 NumPy
+- 🐼 Pandas
+- 🔧 Git
+- 🌐 GitHub
+- 💻 VS Code
+
+---
+
+## 📂 Current Projects
+
+✅ Python Calculator
+
+✅ Marks Analyzer
+
+✅ Percentage Calculator
+
+🌟 More AI & Machine Learning projects coming soon...
+
+---
+
+## 🎯 Goals for 2026
+
+- Learn Machine Learning
+- Build AI Projects
+- Contribute to Open Source
+- Become an AI Engineer
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
